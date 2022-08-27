@@ -1,0 +1,28 @@
+*{
+    border-color: hotpink;
+    border-radius: 10px;
+}
+.btn{
+    width: 100px;
+    padding: 0.5rem 1rem;
+    background-color: blueviolet;
+    color: #fff;
+    font-size: 1.1rem;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    transition: .3s;
+}
+.btn:hover{
+background-color: #27FFC2;
+}
+
+P{
+    color: blueviolet;
+    text-align: left;
+    border: red;
+    
+}
+#name{
+    color: aqua;
+}
